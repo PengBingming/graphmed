@@ -1,0 +1,18 @@
+en,cn
+English,中文
+Help,使用说明
+Input data,输入数据
+Input file,输入文件
+Sample data,参考数据
+Volcano plot,火山图
+Start drawing,开始画图
+gene sequencing,基因排序方式
+plot parameters,图形参数
+pvalue,P 值
+padj,矫正 P 值
+top labels of volcano,火山图标签数
+graphic labels,图形标签
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率
+download plot,下载图形

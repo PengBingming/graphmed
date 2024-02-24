@@ -1,0 +1,26 @@
+en,cn
+English,中文
+Help,使用说明
+Input data,输入数据
+Input file,输入文件
+Parameter settings,参数设置
+time,时间
+status,状态
+group,分组
+参考数据,Sample data
+Plot,图形
+Start drawing,开始画图
+Confidence interval,置信区间
+pvalue,P 值
+risk.table,风险表
+add.all,添加整体
+median.line,中位线
+Graphic labels,图形标签
+palette,调色板
+ylab,y轴标签
+xlab,x轴标签
+legend,图例
+download plot,下载图形
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率

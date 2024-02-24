@@ -1,0 +1,252 @@
+region,label,long,lat,value
+Aruba,,,,0
+Afghanistan,,67.709953,33.93911,0
+Angola,,17.873887,-11.202692,0
+Anguilla,,,,0
+Albania,,20.168331,41.153332,0
+Finland,,25.748151,61.92411,0
+Andorra,,,,0
+United Arab Emirates,,53.847818,23.424076,0
+Argentina,,-63.616672,-38.416097,0
+Armenia,,45.038189,40.069099,0
+American Samoa,,,,0
+Antarctica,,,,0
+Australia,,133.775136,-25.274398,0
+French Southern and Antarctic Lands,,69.348557,-49.280366,0
+Antigua,,,,0
+Barbuda,,,,0
+Austria,,14.550072,47.516231,0
+Azerbaijan,,47.576927,40.143105,0
+Burundi,,29.918886,-3.373056,0
+Belgium,,4.469936,50.503887,0
+Benin,,2.315834,9.30769,0
+Burkina Faso,,-1.561593,12.238333,0
+Bangladesh,,90.356331,23.684994,0
+Bulgaria,,25.48583,42.733883,0
+Bahrain,,,,0
+Bahamas,,-77.39628,25.03428,0
+Bosnia and Herzegovina,,17.679076,43.915886,0
+Saint Barthelemy,,,,0
+Belarus,,27.953389,53.709807,0
+Belize,,-88.49765,17.189877,0
+Bermuda,,-64.7505,32.3078,0
+Bolivia,,-63.588653,-16.290154,0
+Brazil,,-51.92528,-14.235004,0
+Barbados,,,,0
+Brunei,,114.727669,4.535277,0
+Bhutan,,90.433601,27.514162,0
+Botswana,,24.684866,-22.328474,0
+Central African Republic,,20.939444,6.611111,0
+Canada,,-106.346771,56.130366,0
+Switzerland,,8.227512,46.818188,0
+Chile,,-71.542969,-35.675147,0
+China,China,104.195397,35.86166,10
+Ivory Coast,,-5.54708,7.539989,0
+Cameroon,,12.354722,7.369722,0
+Democratic Republic of the Congo,,21.758664,-4.038333,0
+Republic of Congo,,15.827659,-0.228021,0
+Cook Islands,,,,0
+Colombia,,-74.297333,4.570868,0
+Comoros,,43.872219,-11.875001,0
+Cape Verde,,,,0
+Costa Rica,,-83.753428,9.748917,0
+Cuba,,-77.781167,21.521757,0
+Curacao,,,,0
+Cayman Islands,,,,0
+Cyprus,,33.429859,35.126413,0
+Czech Republic,,15.472962,49.817492,0
+Germany,,10.451526,51.165691,0
+Djibouti,,42.590275,11.825138,0
+Dominica,,,,0
+Denmark,,9.501785,56.26392,0
+Dominican Republic,,-70.162651,18.735693,0
+Algeria,,1.659626,28.033886,0
+Ecuador,,-78.183406,-1.831239,0
+Egypt,,30.802498,26.820553,0
+Eritrea,,39.782334,15.179384,0
+Canary Islands,,,,0
+Spain,,-3.74922,40.463667,0
+Estonia,,25.013607,58.595272,0
+Ethiopia,,40.489673,9.145,0
+Fiji,,178.065032,-17.713371,0
+Falkland Islands,,-59.523613,-51.796253,0
+Reunion,,,,0
+Mayotte,,,,0
+French Guiana,,-53.125782,3.933889,0
+Martinique,,,,0
+Guadeloupe,,,,0
+France,France,2.213749,46.227638,8
+Faroe Islands,,,,0
+Micronesia,,,,0
+Gabon,,11.609444,-0.803689,0
+UK,UK,-3.435973,55.378051,4
+Georgia,,-82.9000751,32.1656221,0
+Guernsey,,,,0
+Ghana,,-1.023194,7.946527,0
+Guinea,,-9.696645,9.945587,0
+Gambia,,-15.310139,13.443182,0
+Guinea-Bissau,,-15.180413,11.803749,0
+Equatorial Guinea,,10.267895,1.650801,0
+Greece,,21.824312,39.074208,0
+Grenada,,,,0
+Greenland,,-42.604303,71.706936,0
+Guatemala,,-90.230759,15.783471,0
+Guam,,,,0
+Guyana,,-58.93018,4.860416,0
+Heard Island,,,,0
+Honduras,,-86.241905,15.199999,0
+Croatia,,15.2,45.1,0
+Haiti,,-72.285215,18.971187,0
+Hungary,,19.503304,47.162494,0
+Indonesia,,106.515414,-6.10304,0
+Isle of Man,,,,0
+India,,78.96288,20.593684,0
+Cocos Islands,,,,0
+Christmas Island,,,,0
+Chagos Archipelago,,,,0
+Ireland,,-8.24389,53.41291,0
+Iran,,53.688046,32.427908,0
+Iraq,,43.679291,33.223191,0
+Iceland,,-19.020835,64.963051,0
+Israel,,34.851612,31.046051,0
+Italy,,12.56738,41.87194,0
+San Marino,,,,0
+Jamaica,,-77.297508,18.109581,0
+Jersey,,,,0
+Jordan,,36.238414,30.585164,0
+Japan,,138.252924,36.204824,0
+Siachen Glacier,,,,0
+Kazakhstan,,66.923684,48.019573,0
+Kenya,,37.906193,-0.023559,0
+Kyrgyzstan,,74.766098,41.20438,0
+Cambodia,,104.990963,12.565679,0
+Kiribati,,,,0
+Nevis,,,,0
+Saint Kitts,,,,0
+South Korea,,127.766922,35.907757,0
+Kosovo,,20.902977,42.6026359,0
+Kuwait,,47.481766,29.31166,0
+Laos,,102.495496,19.85627,0
+Lebanon,,35.862285,33.854721,0
+Liberia,,-9.429499,6.428055,0
+Libya,,17.228331,26.3351,0
+Saint Lucia,,,,0
+Liechtenstein,,,,0
+Sri Lanka,,80.771797,7.873054,0
+Lesotho,,28.233608,-29.609988,0
+Lithuania,,23.881275,55.169438,0
+Luxembourg,,6.129583,49.815273,0
+Latvia,,24.603189,56.879635,0
+Saint Martin,,,,0
+Morocco,,-7.09262,31.791702,0
+Monaco,,,,0
+Moldova,,28.369885,47.411631,0
+Madagascar,,46.869107,-18.766947,0
+Maldives,,,,0
+Mexico,,-102.552784,23.634501,0
+Marshall Islands,,,,0
+North Macedonia,,21.745275,41.608635,0
+Mali,,-3.996166,17.570692,0
+Malta,,,,0
+Myanmar,,95.956223,21.913965,0
+Montenegro,,19.37439,42.708678,0
+Mongolia,,103.846656,46.862496,0
+Northern Mariana Islands,,,,0
+Mozambique,,35.529562,-18.665695,0
+Mauritania,,-10.940835,21.00789,0
+Montserrat,,,,0
+Mauritius,,,,0
+Malawi,,34.301525,-13.254308,0
+Malaysia,,101.975766,4.210484,0
+Namibia,,18.49041,-22.95764,0
+New Caledonia,,165.618042,-20.904305,0
+Niger,,8.081666,17.607789,0
+Norfolk Island,,,,0
+Nigeria,,8.675277,9.081999,0
+Nicaragua,,-85.207229,12.865416,0
+Niue,,,,0
+Bonaire,,,,0
+Sint Eustatius,,,,0
+Saba,,,,0
+Netherlands,,5.291266,52.132633,0
+Norway,,8.468946,60.472024,0
+Nepal,,84.124008,28.394857,0
+Nauru,,,,0
+New Zealand,,174.885971,-40.900557,0
+Oman,,55.923255,21.512583,0
+Pakistan,,69.345116,30.375321,0
+Panama,,-80.782127,8.537981,0
+Pitcairn Islands,,,,0
+Peru,,-75.015152,-9.189967,0
+Philippines,,121.774017,12.879721,0
+Palau,,,,0
+Papua New Guinea,,143.95555,-6.314993,0
+Poland,,19.145136,51.919438,0
+Puerto Rico,,-66.590149,18.220833,0
+North Korea,,127.510093,40.339852,0
+Madeira Islands,,,,0
+Azores,,,,0
+Portugal,,-8.224454,39.399872,0
+Paraguay,,-58.443832,-23.442503,0
+Palestine,,,,0
+French Polynesia,,,,0
+Qatar,,51.183884,25.354826,0
+Romania,,24.96676,45.943161,0
+Russia,Russia,105.318756,61.52401,6
+Rwanda,,29.873888,-1.940278,0
+Western Sahara,,-12.885834,24.215527,0
+Saudi Arabia,,45.079162,23.885942,0
+Sudan,,30.217636,12.862807,0
+South Sudan,,31.3069788,6.8769919,0
+Senegal,,-14.452362,14.497401,0
+Singapore,,,,0
+South Sandwich Islands,,,,0
+South Georgia,,,,0
+Saint Helena,,,,0
+Ascension Island,,,,0
+Solomon Islands,,160.156194,-9.64571,0
+Sierra Leone,,-11.779889,8.460555,0
+El Salvador,,-88.89653,13.794185,0
+Somalia,,46.199616,5.152149,0
+Saint Pierre and Miquelon,,,,0
+Serbia,,21.005859,44.016521,0
+Sao Tome and Principe,,,,0
+Suriname,,-56.027783,3.919305,0
+Slovakia,,19.699024,48.669026,0
+Slovenia,,14.995463,46.151241,0
+Sweden,,18.643501,60.128161,0
+Swaziland,,31.465866,-26.522503,0
+Sint Maarten,,,,0
+Seychelles,,,,0
+Syria,,38.996815,34.802075,0
+Turks and Caicos Islands,,,,0
+Chad,,18.732207,15.454166,0
+Togo,,0.824782,8.619543,0
+Thailand,,100.992541,15.870032,0
+Tajikistan,,71.276093,38.861034,0
+Turkmenistan,,59.556278,38.969719,0
+Timor-Leste,,125.727539,-8.874217,0
+Tonga,,,,0
+Trinidad,,-61.222503,10.691803,0
+Tobago,,-61.222503,10.691803,0
+Tunisia,,9.537499,33.886917,0
+Turkey,,35.243322,38.963745,0
+Tanzania,,34.888822,-6.369028,0
+Uganda,,32.290275,1.373333,0
+Ukraine,,31.16558,48.379433,0
+Uruguay,,-55.765835,-32.522779,0
+USA,USA,-95.712891,37.09024,2
+Uzbekistan,,64.585262,41.377491,0
+Vatican,,,,0
+Grenadines,,,,0
+Saint Vincent,,,,0
+Venezuela,,-66.58973,6.42375,0
+Virgin Islands,,,,0
+Vietnam,,108.277199,14.058324,0
+Vanuatu,,166.959158,-15.376706,0
+Wallis and Futuna,,,,0
+Samoa,,,,0
+Yemen,,48.516388,15.552727,0
+South Africa,,22.937506,-30.559482,0
+Zambia,,27.849332,-13.133897,0
+Zimbabwe,,29.154857,-19.015438,0

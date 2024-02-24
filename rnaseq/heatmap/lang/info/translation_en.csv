@@ -1,0 +1,33 @@
+en,cn
+English,中文
+Help,使用说明
+Input data,输入数据
+Input file,输入文件
+Sample data,参考数据
+Annotation.row,行注释
+Annotation.col,列注释
+Set row parameters,设置行参数
+rowname,行名
+row.cluster,行聚类
+add anno.row,添加行注释
+anno.row1,行注释1
+anno.row2,行注释2
+Set col parameters,设置列参数
+colname,列名
+col.cluster,列聚类
+add anno.col,添加列注释
+anno.col1,列注释1
+anno.col2,列注释2
+Heatmap,热图
+Start drawing,开始画图
+Standardization,标准化
+display.numbers,显示数值
+angle.col,列名角度
+graphic color,图形颜色
+Low.value color,低值颜色
+Middle.value color,中值颜色
+High.value color,高值颜色
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率
+download plot,下载图形

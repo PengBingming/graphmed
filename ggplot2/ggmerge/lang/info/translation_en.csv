@@ -1,0 +1,26 @@
+en,cn
+English,中文
+Input data,输入数据
+Input file,输入文件
+Help,使用说明
+Format: .csv .xlsx .xls,格式：.csv .xlsx .xls
+Categorical variables,分类变量
+Ordered variables,有序变量
+Continuous variables,连续变量
+Sample data,参考数据
+Result,计算结果
+Calculate,开始计算
+Plot,图形
+basic,基础
+title,标题
+axis.title,轴标题
+axis.text,轴文本
+axis.ticks,轴刻度
+legend.title,图例标题
+legend.text,图例文本
+Start drawing,开始画图
+download plot,下载图形
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率
+Graphic selection,图形选择

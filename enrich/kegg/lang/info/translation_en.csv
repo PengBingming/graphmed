@@ -1,0 +1,29 @@
+en,cn
+English,中文
+Help,使用说明
+Input data,输入数据
+Input file,输入文件
+GeneID,基因列
+Species,物种
+Input data type,输入数据类型
+Matrix Parameters,差异矩阵参数
+pvalue column,pvalue 列
+padj column,padj 列
+logFC column,logFC 列
+Genes of enrich,富集基因
+Sample data,参考数据
+KEGG analysis,KEGG 分析
+ID.geneName,ID列基因
+Graphic selection,图形选择
+Number of pathways,通路数目
+Enrich parameters,富集参数
+Pathway pvalue,通路 P 值
+Pathway padj,通路 P.adj
+download plot,下载图形
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率
+Select pathways,通路选择
+Start drawing,开始画图
+Pathway Genes,通路基因
+Plot parameters,图形参数

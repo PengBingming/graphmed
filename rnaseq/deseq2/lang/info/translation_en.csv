@@ -1,0 +1,29 @@
+en,cn
+English,中文
+Help,使用说明
+Expression matrix,表达矩阵
+Group information,分组信息
+GeneID,基因列
+Sample data,参考数据
+matrix,矩阵
+group,分组
+Matrix rows,下载矩阵行数
+Differential genes,差异基因
+Control group,对照组
+Case group,实验组
+Filter low-expression genes(rowSum ≥),过滤低表达基因(矩阵每行和≥)
+Standardization,标准化
+Standardized method,标准化方式
+Plot,图形
+Graphic selection,图形选择
+Parameter settings,参数设置
+pvalue,P 值
+padj,矫正 P 值
+Gene sequencing,基因排序方式
+Top genes of heatmap,热图基因数
+Top labels of volcano,火山图标签数
+volcano theme,火山图主题
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率
+download plot,下载图形

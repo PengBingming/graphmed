@@ -1,0 +1,34 @@
+en,cn
+English,中文
+Help,使用说明
+ChinaMap,中国地图
+WorldMap,世界地图
+Input Data,输入数据
+Input File,输入文件
+SampleData,参考数据
+Sample data,参考数据
+Start drawing,开始画图
+Map data,地图数据
+Data sources: ,数据来源：
+Graphic labels,图形标签
+legend,图例
+Label font size,标签字号
+Low-value color,低值颜色
+Middle-value color,中值颜色
+High-value color,高值颜色
+scale,比例尺
+north.arrow,指北针
+line.color,界线颜色
+basic,基础
+title,标题
+axis.title,轴标题
+axis.text,轴文本
+axis.ticks,轴刻度
+legend.title,图例标题
+legend.text,图例文本
+label.color,标签颜色
+legend.position,图例位置
+download plot,下载图形
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率

@@ -1,0 +1,34 @@
+en,cn
+English,中文
+Help,使用说明
+Input data,输入数据
+Input file,输入文件
+Show Data,展示数据
+Analyze Data,分析数据
+Categorical variables,分类变量
+Ordered variables,有序变量
+Continuous variables,连续变量
+Sample data,参考数据
+Fitting Plot,拟合图形
+Parameter settings,参数设置
+Fitting mode,拟合方式
+Graphic selection,图形选择
+Fitting equation,拟合方程
+Confidence interval,置信区间
+CI level,置信水平
+Correlation,相关性
+point.size,点大小
+line.size,线大小
+facet or not,是否分面
+basic,基础
+title,标题
+axis.title,轴标题
+axis.text,轴文本
+axis.ticks,轴刻度
+legend.title,图例标题
+legend.text,图例文本
+download plot,下载图形
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率
+

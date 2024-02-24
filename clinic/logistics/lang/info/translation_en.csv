@@ -1,0 +1,30 @@
+en,cn
+English,中文
+Input data,输入数据
+Input file,输入文件
+Help,使用说明
+Categorical variables,分类变量
+Ordered variables,有序变量
+Continuous variables,连续变量
+Sample data,参考数据
+Logistics result,Logistics 结果
+group: Dicategorical var,group：二分类
+Filter variables,筛选变量
+Result data,结果数据
+Forestplot,森林图
+basic,基础
+title,标题
+axis.title,轴标题
+axis.text,轴文本
+axis.ticks,轴刻度
+legend.title,图例标题
+legend.text,图例文本
+background color,背景颜色
+vline color,竖线颜色
+errorbarh color,横线颜色
+download plot,下载图形
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率
+Forestplot data,Forestplot 数据
+Plot data,图形数据

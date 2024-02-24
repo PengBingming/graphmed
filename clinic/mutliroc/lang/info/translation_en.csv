@@ -1,0 +1,230 @@
+cn,en
+炳明的 shiny 工具|Bingm's shinytools
+重医儿院,CHCMU
+炳明,Bingm
+中文,English
+欢迎使用 ShinyTools,Welcome to ShinyTools
+欢迎使用 GraphMed,Welcome to GraphMed
+医学数据可视化,Medical data visualization
+
+使用说明,Help
+联系我们,Contact us
+常见问题,FAQ
+
+微信,Wechat
+支付宝,Alipay
+Elisa 分析,Elisa analysis
+Q-PCR 结果分析,Q-PCR analysis
+
+基因去重复,GeneID deduplication
+基因 ID 转换,Change gene ID
+表达箱图,Boxplot
+热图,Heatmap
+KEGG 分析,KEGG analysis
+GSAE 分析(KEGG 库),gseaKEGG analysis
+GSEA 分析,GSEA analysis
+GO 分析,GO analysis
+GSEA 分析(GO库),gseaGO analysis
+ORA 分析,ORA analysis
+
+单因素差异分析,One-way difference test
+简易森林图,Simple forestplot
+Logistics 回归,Logistics regression
+两变量相关性,Two-variable correlation
+中国地图,ChinaMap
+
+
+输入数据,Input data
+输入文件,Input file
+格式：.csv .xlsx .xls,Format: .csv .xlsx .xls
+参考数据,Smaple data
+计算结果,Result
+副孔(有/无),Subbore (with/without)
+有效位数,Significant digits
+拟合类型,Fitting mode
+拟合图形,Fitting plot
+下载图形,DownloadPlot
+下载图宽,width of plot
+下载图高,high of plot
+分辨率,res of plot
+
+
+地图数据,Map data
+数据来源：,Data sources: 
+地区1 adcode,1st adcode
+地区2 adcode,2nd adcode
+
+地区1 子区域,1st subarea
+地区2 子区域,2nd subarea
+
+图形标签,Graphic labels
+标题,title
+标题：,title:
+图例,legend
+标签字号,Label font size
+低值颜色,Low-value color
+中值颜色,Middle-value color
+高值颜色,High-value color
+经纬度线,Latitude and longitude lines
+
+参数设置,Parameter settings
+内参基因,Internal reference
+对照样本,Control sample
+结果选择,Result selection
+计数结果,Result
+目的基因,Target gene
+开始画图,Start drawing
+表达图形,Express graphics
+
+去重复,Deduplication
+结果,Result
+结果数据,Result data
+方法,method
+
+
+物种：,Species: 
+物种,Species
+ID列基因,ID_geneName
+转换基因,to_geneName
+
+表达矩阵,Expression matrix
+分组信息,Group information
+基因列,GeneID
+pvalue 列,pvalue column
+padj 列,padj column
+logFC 列,logFC column
+矩阵,matrix
+分组,group
+图形,Plot
+箱图,Boxplot
+选择基因,Select gene
+
+p 值 x 坐标,label.x
+p 值 y 坐标,label.y
+x 轴标签,xlab
+y 轴标签,ylab
+主题,Theme
+
+行注释,Annotation_row
+列注释,Annotation_col
+设置行参数,Set row parameters
+行名,rowname
+行聚类,row_cluster
+添加行注释,add anno_row
+行注释1,anno_row1
+行注释2,anno_row2
+设置列参数,Set col parameters
+列名,colname
+列聚类,col_cluster
+添加列注释,add anno_col
+列注释1,anno_col1
+列注释2,anno_col
+标准化,Standardization
+显示数值,display_numbers
+列名角度,angle_col
+图形颜色,Graphic color
+
+下载矩阵行数：,Matrix rows:
+对照组：,Control group:
+实验组：,Experimental group:
+过滤低表达基因(矩阵每行和≥),Filter low-expression genes(rowSum ≥)
+
+标准化方式：,Standardized method
+基因排序方式：,Gene sequencing
+图形选择：,Graphic selection:
+图形选择,Graphic selection
+图形参数,Plot parameters
+P 值,pvalue
+矫正 P 值,padj
+热图基因数,Top genes of heatmap 
+火山图标签数,Top labels of volcano
+矫正方式：,Adjust method
+差异基因,Differential genes
+
+输入数据类型,Input data type
+通路 P 值,Pathway pvalue
+通路 P.adj,Pathway padj
+富集基因,Genes of enrich
+通路数目,Number of pathways
+通路选择,Select pathways
+差异矩阵参数,Matrix Parameters
+富集参数,Enrich parameters
+通路基因,Pathway Genes
+
+森林图,Forestplot
+y：二分类,y: Dicategorical var
+x1：计量,x1: measurement
+x2：计数,x2: count
+筛选变量：,Filter variables
+背景颜色,background color
+竖线颜色,vline color
+横线颜色,errorbarh color
+图形数据,Plot data
+Logistics 结果,Logistics result
+Forestplot 数据,Forestplot data
+
+
+单边/双边检验：,alternative:
+检验方法：,compare methods:
+点线大小,dot line size
+散点：,scatter:
+误差条：,error bars:
+箱图线条：,boxplot lines:
+小提琴图线条：,violin lines:
+星号大小：,star size:
+y轴标签：,ylab:
+x轴标签：,xlab:
+y轴标签,ylab
+x轴标签,xlab
+显示横杠：,difference bar:
+是否配对：,paired or not:
+校正方法,correction method
+样本组数：,number of groups:
+（多组存在差异时，两两比较的校正方法）,(Correction method for comparison when there are differences between multiple groups)
+两两比较,Two groups comparison
+
+
+点线颜色,dot line color
+填充颜色, fill color
+是否分面,facet or not
+拟合方程,Fit equation
+拟合方式,Fitting mode
+置信区间,Confidence interval
+相关性,Correlation
+图像风格,plot style
+
+火山图,Volcano plot
+火山图主题,volcano theme
+
+生存分析,Survival analysis
+时间,time
+状态,status
+风险表,risk.table
+添加整体,add.all
+中位线,median.line
+调色板,palette
+
+结局,outcome
+选择变量,select variable
+节点,node
+变量,variable
+分面,facet
+灵敏度,sensitivity
+ROC 曲线,ROC curve
+合并变量,merge variables
+
+连续变量,Continuous variables
+分类变量,Categorical variables
+有序变量,Ordered variables
+
+基础,basic
+轴标题,axis.title
+轴文本,axis.text
+轴刻度,axis.ticks
+图例标题,legend.title
+图例文本,legend.text
+
+点,point
+点大小,point.size
+线大小,line.size
+

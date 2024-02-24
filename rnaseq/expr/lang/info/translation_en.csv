@@ -1,0 +1,25 @@
+en,cn
+English,中文
+Help,使用说明
+Expression matrix,表达矩阵
+Group information,分组信息
+GeneID,基因列
+matrix,矩阵
+group,分组
+Sample data,参考数据
+Graphic labels,图形标签
+title,标题
+legend,图例
+color type,颜色
+Boxplot,箱图
+Select gene,选择基因
+label.x,p 值 x 坐标
+label.y,p 值 y 坐标
+ylab,y轴标签
+xlab,x轴标签
+theme,主题
+test methods,检验方法
+download plot,下载图形
+plot.weight,下载图宽
+plot.high,下载图高
+plot.dpi,分辨率
