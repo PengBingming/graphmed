@@ -146,9 +146,9 @@ provinceUI <- function(id) {
            actionBttn(ns("submit"), label = lang$t("Start drawing"),style = "fill", color = "primary", size = "sm" ),
            hr(),
            fluidRow(
-             column( width = 6,selectInput(inputId = ns('annotation_scale'),label = lang$t('比例尺'),
+             column( width = 6,selectInput(inputId = ns('annotation_scale'),label = lang$t('scale'),
                                            choices = c("show","hide"), selected = "show") ),
-             column( width = 6,selectInput(inputId = ns('annotation_north_arrow'),label = lang$t('指北针'),
+             column( width = 6,selectInput(inputId = ns('annotation_north_arrow'),label = lang$t('north.arrow'),
                                            choices = c("show","hide") ,selected = "show" ) ),
              column( width = 6,selectInput(inputId = ns("low") , lang$t("Low-value color"), colors() , selected = "white") ),
              column( width = 6,selectInput(inputId = ns("high"), lang$t("High-value color"), colors() , selected = "red" ) ),
